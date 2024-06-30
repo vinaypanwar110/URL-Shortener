@@ -1,0 +1,11 @@
+body {
+    background-color: #575757 !important; 
+}
+h1 {
+    color: #4CAF50; 
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
